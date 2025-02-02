@@ -9,7 +9,7 @@ const barlowSemiCondensed = Barlow_Semi_Condensed({
 });
 
 export const metadata: Metadata = {
-  title: "By Ali Haider",
+  title: "Rock Paper Scissors",
   description: "Created by Muhammad Ali Haider",
 };
 
