@@ -6,5 +6,4 @@
 - Scissors beats Paper
 
 
-https://rock-paper-scissors-game-by-ali.vercel.app/
-
+netlify: https://btufinal.netlify.app/
